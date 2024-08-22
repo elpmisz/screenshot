@@ -94,7 +94,7 @@ function line_notify($res, $token)
                 <div class="input-group-prepend">
                   <span class="input-group-text">TOKEN</span>
                 </div>
-                <input type="text" class="form-control" name="token" value="XyaQ9gT5s5XxeGW7e8o3sX0A51VPL6mBmWynnfgsdsO" required>
+                <input type="text" class="form-control" name="token" required>
                 <div class="invalid-feedback">
                   Please fill out this field.
                 </div>
