@@ -1,0 +1,20 @@
+{
+    "name": "worachit.pa/screenshot",
+    "autoload": {
+        "psr-4": {
+            "WorachitPa\\Screenshot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "elpmisz",
+            "email": "worachit.pa@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "4.6.2",
+        "components/jquery": "^3.7",
+        "spatie/browsershot": "^3.58",
+        "spatie/image": "^2.0"
+    }
+}
